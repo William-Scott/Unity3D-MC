@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "仿MC", "仿MC.csproj", "{BE6E85CD-6BA6-7422-BB0D-3755267EF091}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "仿MC.Plugins", "仿MC.Plugins.csproj", "{27F2406C-AF05-8C2F-93B0-D009818EBEFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "仿MC.Editor.Plugins", "仿MC.Editor.Plugins.csproj", "{E62FF1B2-5F4E-B4AC-016C-636362936846}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE6E85CD-6BA6-7422-BB0D-3755267EF091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE6E85CD-6BA6-7422-BB0D-3755267EF091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE6E85CD-6BA6-7422-BB0D-3755267EF091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE6E85CD-6BA6-7422-BB0D-3755267EF091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27F2406C-AF05-8C2F-93B0-D009818EBEFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F2406C-AF05-8C2F-93B0-D009818EBEFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F2406C-AF05-8C2F-93B0-D009818EBEFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27F2406C-AF05-8C2F-93B0-D009818EBEFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E62FF1B2-5F4E-B4AC-016C-636362936846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E62FF1B2-5F4E-B4AC-016C-636362936846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E62FF1B2-5F4E-B4AC-016C-636362936846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E62FF1B2-5F4E-B4AC-016C-636362936846}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
